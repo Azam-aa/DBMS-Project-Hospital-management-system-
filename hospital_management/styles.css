@@ -1,0 +1,21 @@
+/* Add responsive design styles */
+@media (max-width: 600px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+/* Add a pleasant color scheme */
+body {
+    background-color: #f9f9f9;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+}
